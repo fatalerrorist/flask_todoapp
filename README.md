@@ -1,5 +1,8 @@
-#Flask Todo App
--ORM 
--SQLAlchemy 
--Flask 
--SQlite
+## Flask Todo App
+Basic Todo app 
+## Using Techs
+- ORM
+- SQLAlchemy
+- Sqlite
+- Flask
+
