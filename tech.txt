@@ -1,0 +1,5 @@
+ORM
+SQLAlchemy
+Database
+Flask
+
